@@ -30,5 +30,5 @@ You can run the executable directly via the CLI:
 Alternatively, you can use the provided run script:
 bash run.sh
 
-## 📊 Proof of Execution
+## Proof of Execution
 Please see the `proof_of_execution` folder in this repository for sample outputs showing the step-by-step transformation (Original -> Grayscale -> Blurred) of classic 512x512 and 1024x1024 test images from the USC-SIPI Image Database.
